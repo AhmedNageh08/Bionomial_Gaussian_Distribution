@@ -6,10 +6,10 @@ With this package , you can do this magic .
 
 ## Files
 
--Binomialdistribution.py:dealing with bionomial distribution 
--Gaussiandistribution.py:dealing with gaussian distribution 
--README.md:About the package
--__init__.py:calling the package
+-Binomialdistribution.py:dealing with bionomial distribution<br /> 
+-Gaussiandistribution.py:dealing with gaussian distribution <br />
+-README.md:About the package<br />
+-__init__.py:calling the package<br />
 
 ## Installation
 
